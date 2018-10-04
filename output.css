@@ -1,0 +1,38 @@
+body {
+  background-image: url("Images/background.jpeg");
+  display: flex;
+  flex-direction: column;
+}
+
+.box {
+  display: flex;
+  flex-direction: column;
+}
+
+.menu ul {
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  font-family: "Mitr", sans-serif;
+  font-size: 30px;
+}
+
+.menu ul li {
+  margin: 5px;
+  color: pink;
+}
+
+h1 {
+  height: 400px;
+  width: 800px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-family: "Megrim", cursive;
+  font-size: 50px;
+}
+
+/*# sourceMappingURL=output.css.map */
