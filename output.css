@@ -2,6 +2,7 @@ body {
   background-image: url("Images/background.jpeg");
   display: flex;
   flex-direction: column;
+  font-family: "Mitr", sans-serif;
 }
 
 .box {
@@ -20,7 +21,6 @@ body {
 
 .menu ul li {
   margin: 5px;
-  color: pink;
 }
 
 h1 {
